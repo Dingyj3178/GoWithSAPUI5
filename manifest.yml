@@ -1,0 +1,5 @@
+---
+applications:
+- name: hello-world
+  instance: 1
+  buildpack: https://github.com/cloudfoundry/go-buildpack.git
